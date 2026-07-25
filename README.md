@@ -20,7 +20,7 @@ A complete bundle of five premium AI workflows for n8n.
 
 ## Buy Now
 
-https://payhip.com/TSAutomation
+https://payhip.com/b/c7ziT
 
 ---
 Created by TS Automation
