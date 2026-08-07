@@ -1,6 +1,6 @@
 # AI Productivity Pack for n8n
 
-A complete bundle of five premium AI workflows for n8n.
+A complete bundle of five AI automation workflows for n8n to improve business productivity.
 
 ## Included Workflows
 
@@ -12,12 +12,12 @@ A complete bundle of five premium AI workflows for n8n.
 
 ## Why Choose This Bundle
 
-- Save 59%
+- Bundle Price $39
 - Ready-to-import workflows
 - Beginner friendly
 - Documentation included
-- Lifetime updates
-
+- Updates available for future improvements
+  
 ## Buy Now
 
 https://payhip.com/b/c7ziT
