@@ -12,7 +12,7 @@ A complete bundle of five AI automation workflows for n8n to improve business pr
 
 ## Why Choose This Bundle
 
-- Bundle Price $39
+- Bundle Price: $49
 - Ready-to-import workflows
 - Beginner friendly
 - Documentation included
